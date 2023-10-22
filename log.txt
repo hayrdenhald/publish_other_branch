@@ -1,3 +1,0 @@
-[ 22/10/23, 12:18:31 ]: Failed to write HTML to file!
-[ 22/10/23, 12:21:26 ]: Failed to write HTML to file!
-[ 22/10/23, 12:27:46 ]: Wrote spinning on wednesday to ./public/site/index.html.
